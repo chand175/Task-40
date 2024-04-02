@@ -3,31 +3,12 @@
     padding: 0%;
     box-sizing: border-box;
 }
-.box2{
-    width: 100%;
-    display: inline;
-   
-    color :blue;
-    background-color: aquamarine;
+button{
+    width: 80px;
+    height: 50px;
+    padding-top :15px;
+    background-color: rgb(50, 30, 98);
+color:rgb(248, 248, 240);
+border-radius: 10px;
 }
-
-
-p{
-    display: block;
-}
-
-body{
-    background-color: aqua;
-}
-hr{
-    height: 10px ;
-    background-color: black;
-}
-.box2 img{
-    width: 80%;
-    border: 5px solid black;
-}
-
-
-
 
