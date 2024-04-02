@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.box2{
+    width: 100%;
+    display: inline;
+   
+    color :blue;
+    background-color: aquamarine;
+}
+
+
+p{
+    display: block;
+}
+
+body{
+    background-color: aqua;
+}
+hr{
+    height: 10px ;
+    background-color: black;
+}
+.box2 img{
+    width: 80%;
+    border: 5px solid black;
+}
+
+
+
+
